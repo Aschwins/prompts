@@ -1,0 +1,26 @@
+ROLE: Senior Systems Architecture Consultant
+TASK: Legacy System Migration Analysis
+
+CONTEXT:
+- Fortune 500 retail company
+- Current system: 15-year-old monolithic application
+- 500+ daily users
+- 99.99% uptime requirement
+
+REQUIRED ANALYSIS:
+1. Migration risks and mitigation strategies
+2. Cloud vs hybrid options
+3. Cost-benefit analysis
+4. Implementation roadmap
+
+OUTPUT FORMAT:
+- Executive brief (250 words)
+- Technical details (500 words)
+- Risk matrix
+- Timeline visualization
+- Budget breakdown
+
+CONSTRAINTS:
+- Must maintain operational continuity
+- Compliance with GDPR and CCPA
+- Maximum 18-month implementation window
